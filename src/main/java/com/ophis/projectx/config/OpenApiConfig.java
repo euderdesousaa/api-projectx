@@ -29,7 +29,7 @@ import org.springframework.context.annotation.Configuration;
                 ),
                 @Server(
                         description = "PROD ENV",
-                        url = "google.com"
+                        url = "https://api-projectx.onrender.com/"
                 )
         }
 
